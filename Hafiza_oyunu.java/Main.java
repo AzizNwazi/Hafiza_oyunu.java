@@ -1,4 +1,3 @@
-package Udemy_hafiza_oyunu;
 
 import java.util.Scanner;
 import java.io.File;
